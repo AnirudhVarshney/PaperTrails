@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "915474230668",
+    "firebase_url": "https://icumanager-150911.firebaseio.com",
+    "project_id": "icumanager-150911",
+    "storage_bucket": "icumanager-150911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915474230668:android:ff0574c57cc1b87e",
+        "android_client_info": {
+          "package_name": "com.vishadev.icu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915474230668-ghou6cv5jtpgtpr3rqrn9vm2id6lppfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishadev.icu",
+            "certificate_hash": "FBBA30C7213FA625D0926552E67C35C6CEFF3A91"
+          }
+        },
+        {
+          "client_id": "915474230668-ntgkjikqqan1sas1u0o14fa42e7ndkq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGknuv6tnwg_aEgT4Uhl4-cpEDeNG1cQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915474230668-ntgkjikqqan1sas1u0o14fa42e7ndkq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
